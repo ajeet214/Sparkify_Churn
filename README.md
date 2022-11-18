@@ -1,6 +1,7 @@
 # Sparkify Churn Prediction
 
 ## Installed/Used Libraries
+ - python
  - NumPy
  - Pandas
  - Seaborn
@@ -8,8 +9,8 @@
  - PySpark
  - jupyter notebook
  
-## Environmed Used
- - Anaconda 
+## Environment Used
+ - Workspace, Anaconda 
 
 ## Project Overview
 This is one of the parts of the capstone project in Udacity's data science Nanodgeree program. There is a virtual start-up company named Sparkify(similar to Spotify) that offers music streaming services to users in the USA. Many users stream their favorite songs every day either using the basic free tier that places advertisements between the songs or the premium subscription model, where they stream the music for free but pay a monthly flat rate. Users can upgrade, downgrade, or cancel their service at any time. So, it is crucial to make sure the users love the service. Every time a user interacts with the service such as playing songs, logging out, liking a song with a thumps-up, hearing an Ad, or downgrading their service, it generates data. All this data contains key insides for keeping the users happy and helping Sparkify’s business thrive. It is our job on the data team to predict which users are at risk to churn either downgrading from premium to free tier or canceling their service altogether. If we can accurately identify these users before they leave, Sparkify can offer them discounts and incentives, potentially saving the business millions in revenue.
